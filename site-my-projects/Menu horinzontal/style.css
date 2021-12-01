@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+*{  margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    background-color:rgb rgb(192, 21, 21)
+
+}
+
+
+#menu-h ul{
+    list-style: none;
+    padding: 0;
+    background-color:rgb(12, 9, 12)
+
+}
+
+#menu-h ul li{
+    display: inline;
+    display: block;
+    margin: 80px;
+}
+
+
+#menu-h ul li a{
+    color: #ffffff;
+    padding: 20px;
+    display: inline;
+    text-decoration: none;
+    transtion: background .4s;
+    
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 20px;
+    background-color:rgb(20, 17, 18)
+    
+    
+}
+
+/*#menu-h ul li a:hover {
+    float: right;
+    background-color: rgb(24, 80, 233);
+    
+}
+
+#menu-h ul li:last-child a {
+    float: right;
+    background-color:rgb(24, 139, 233)
+}
+
+
