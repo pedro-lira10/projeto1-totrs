@@ -7,14 +7,14 @@
 /* Elementos com o ID "titulo" */
 #titulo {
     font-family: sans-serif;
-    color: #380B61;
+    color: #b34f0d;
     margin-left: 7%;
 } 
 
 /* Elementos com o ID "subtitulo" */
 #subtitulo {
     font-family: sans-serif;
-    color: #380B61;
+    color: #702518;
     margin-left: 10%;
 } 
 
@@ -32,7 +32,7 @@ body{
     background-color: #F0F8FF;
     font-family: sans-serif;
     font-size: 1em;
-    color: #59429d;
+    color: #1a1916;
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
@@ -42,7 +42,7 @@ body{
 input, select, textarea, button {
     font-family: sans-serif;
     font-size: 1em;
-    color: #59429d;
+    color: #b34f0d;
     border-radius: 5px;
 }
 
@@ -64,7 +64,7 @@ input, select, textarea, button {
 /* Elementos de classe "campo" de tag <label> */
 .campo label {
     margin-bottom: 0.2em;
-    color: #59429d;
+    color: #b34f0d;
     display: block;
 }
 
@@ -77,7 +77,7 @@ fieldset.grupo .campo {
 /* Elementos de classe "campo" das tags <input> com atributo text e email, da tag <select> e da tag <textarea>*/
 .campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
     padding: 0.2em;
-    border: 1px solid #59429d;
+    border: 1px solid #000000;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     display: block;
 }
@@ -89,13 +89,13 @@ fieldset.grupo .campo {
 
 /* Elemento de classe "campo" com tag <input>, <select> e <textarea> tocas com estado da pseudoclasse "focus"*/
 .campo input:focus, .campo select:focus, .campo textarea:focus {
-    background: #E0E0F8;
+    background: #ccc0b8;
 }
 
 /* Elemento de classe "botao" */
 .botao {
     font-size: 1.2em;
-    background: #59429d;
+    background: #b34f0d;
     border: 0;
     margin-bottom: 1em;
     color: #ffffff;
