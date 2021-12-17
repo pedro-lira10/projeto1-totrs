@@ -6,39 +6,59 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tela de login</title>
     <style>
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-            background-image: linear-gradient(45deg, rgb(37, 153, 248), rgb(255, 0, 0));
+        @import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Lobster&family=Luxurious+Script&display=swap');
+        body{ font-family: 'Corinthia';
+font-family: 'Lobster';
+font-family: 'Luxurious Script';
+font-size: 150.75%; /* 15px */
+                   
+            background-image: linear-gradient(45deg, cyan, yellow);
+            
+        
+            
         }
         div{
             background-color: rgba(0, 0, 0, 0.9);
             position: absolute;
             top: 50%;
             left: 50%;
+            down: 50%;
+            right: 21%;
             transform: translate(-50%,-50%);
-            padding: 80px;
-            border-radius: 15px;
+            padding: 90px;
+            border-radius: 150px;
+            background-image: linear-gradient(45deg, rgb(0, 132, 255), rgb(170, 170, 4));
             color: #fff;
         }
         input{
             padding: 15px;
+
             border: none;
             outline: none;
             font-size: 15px;
+            border-radius: 10px;
         }
         button{
             background-color: dodgerblue;
             border: none;
             padding: 15px;
-            width: 100%;
+            width: 50%;
             border-radius: 10px;
             color: white;
             font-size: 15px;
             
         }
-        button:hover{
+        button:haver{
             background-color: deepskyblue;
             cursor: pointer;
+        }
+        a{ 
+            position: absolute;
+            top: 100%;
+            left: 26%;
+            down: 20%;
+            right: 2%;
+            font-size: 150%;
         }
     </style>
 </head>
@@ -50,6 +70,11 @@
         <input type="password" placeholder="Senha">
         <br><br>
         <button>Enviar</button>
+        <br>
+        
+        <a href="/home-projects/index1.html">Retornar ao Menu</a>
     </div>
+
+    
 </body>
 </html>
