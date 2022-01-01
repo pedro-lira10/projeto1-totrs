@@ -121,27 +121,77 @@
   .mobile-menu.active .line3 {
     transform: rotate(45deg) translate(-5px, -7px);
   }
-img {  
+img {
+  background-image: url(../home-projects/img/all-in-one.png)
+  background-repeat: no-repeat;
+  background-size: cover ;
+  position: center center; 
+  background-clip: border-box;
+  background-attachment: auto;
+
+  top: auto;
+  left: 0;
+  right: 0;
+  down: auto;
+  bottom: 0;
+  opacity: 0.4;
+}
+
+
+h2 {
   position: absolute;
   top: 10%;
   left: 20%;
   down: 10%;
   right: 20%;
 }
-
 h3 {
   position: absolute;
-  top: 10%;
+  top: 17%;
   left: 20%;
   down: 10%;
   right: 20%;
 }
 
-/*ul{
+h4{
   position: absolute;
-  top: 14%;
+  top: 22%;
   left: 20%;
   down: 10%;
-  right: 20%;-/
-}
+  right: 20%;
+ }
+
+ h5 { position: absolute;
+  top: 27%;
+  left: 20%;
+  down: 10%;
+  right: 20%;
+
+ }
+
+ h6{ 
+  position: absolute;
+  top: 31%;
+  left: 20%;
+  down: 10%;
+  right: 20%;
+ }
+
+ h7 { 
+  position: absolute;
+  top: 39%;
+  left: 20%;
+  down: 10%;
+  right: 20%;
+ }
+
+ h8  { 
+  position: absolute;
+  top: 44%;
+  left: 20%;
+  down: 10%;
+  right: 20%;
+ }
+
+
   

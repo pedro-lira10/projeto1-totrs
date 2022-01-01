@@ -1,0 +1,10 @@
+img {  
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  down: 10%;
+  right: 20%;
+}
+
+background-attachment: fixed;
+
