@@ -9,3 +9,4 @@ let kaiba = [true,3, 'Dragon eyes Blue', 3000, 8,6,2,4,4]
 console.log(kaiba[2])
 
 console.log(kaiba.length)
+
