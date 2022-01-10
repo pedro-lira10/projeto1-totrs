@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(37, 132, 240);
+    
+
+}
+linha-vertical {
+    height: 200px;
+    border-right: 1px solid red;
+}
+linha-horizontal {
+    width: 300px;
+    border: 1px solid #000;
+}
+
+
+
+        @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Moon+Dance&display=swap" rel="stylesheet"> 
+        body { 
+            font-family: 'Comforter Brush', cursive;
+            font-size: 18px;
+            color: black;
+        }
+
+        h1 { 
+            font-family: 'Comforter Brush', cursive;
+            font-size: 65px;
+            color: black;
+
+        }
+
+    
+
+
