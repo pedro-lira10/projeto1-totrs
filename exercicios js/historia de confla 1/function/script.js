@@ -71,7 +71,24 @@
 
 //-------------------------------------------
 
-// # function - scope
+//const saludar = function(nombre) {
+//  let frase = `!hola ${nombre}! ?como estas?`;
+//  document.write(frase)
+//}
+
+
+// - funções flecha
+
+//const saludar = (nombre) => {
+//  let frase = `Hola ${nombre}! ?Como estas?`;
+//  document.write(frase)
+//}
+
+//saludar ("pedro")
+
+
+
+// # function - scope ( tenho que ver novamente p/ entender)
 
 
 
