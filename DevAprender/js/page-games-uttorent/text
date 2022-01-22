@@ -1,0 +1,3 @@
+.first-character{float:$startSide;color:$(keycolor);font-size:75px;line-height:60px;padding-top:3px;padding-$endSide:8px;padding-$startSide:3px;font-family:Georgia}-->
+    .post-body .button{display:inline-block;color:$(butext.color)}
+    .button{border-radius:2px;background:$(keycolor);padding:10px 20px;margin:5px;color:#fff;text-align:center;border:0;cursor:pointer;display:inline-block;text-decoration:none;font-weight:400;color:#fff;-webkit-box-shadow:0 4px 4px -2px rgba(0,0,0,0.1);;box-shadow:0 4px 4px -2px rgba(0,0,0,0.1)}
