@@ -7,7 +7,7 @@ function criarCelular(marcaCelular,tamanhoTela,capacidadeBateria){
         tamanhoTela,
         capacidadeBateria,
         ligar() {
-            console.log("Fazendo lligação...")
+            console.log("Fazendo ligação...")
         }
     }
 }

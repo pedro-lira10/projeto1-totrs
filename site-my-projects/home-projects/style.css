@@ -4,7 +4,7 @@
   }
   
   h1 {
-    color: rgb(3, 6, 211);
+    color: rgb(29, 31, 175);
     font-family: Arial;
     font-size:18px;
     text-decoration: none;
@@ -192,6 +192,11 @@ h4{
   down: 10%;
   right: 20%;
  }
-
+ .container {
+  width: min(90vw, 800px);
+  margin: auto;
+}
+#balance {
+  margin-top: -8rem;
 
   
