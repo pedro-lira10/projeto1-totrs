@@ -46,3 +46,9 @@ class MobileNavbar {
   const titulo = document.querySelector(".titulo");
 
   titulo.setAttribute("title", "Brasil");
+
+
+  const input = document.querySelector(".input-normal");
+
+  document.write(input.className)
+
