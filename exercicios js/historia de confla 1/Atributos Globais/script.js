@@ -10,5 +10,5 @@ const input = document.querySelector(".input-normal");
 
 //document.write(input.type = "number")
 
-input.type = "range"
+input.type = "color"
 
