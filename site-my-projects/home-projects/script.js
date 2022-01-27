@@ -43,4 +43,6 @@ class MobileNavbar {
   );
   mobileNavbar.init();
 
-  
+  const titulo = document.querySelector(".titulo");
+
+  titulo.setAttribute("title", "Brasil");
