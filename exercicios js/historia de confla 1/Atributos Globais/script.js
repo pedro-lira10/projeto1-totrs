@@ -8,5 +8,7 @@ const input = document.querySelector(".input-normal");
 
 //document.write(input.value)
 
-document.write(input.type = "number")
+//document.write(input.type = "number")
+
+input.type = "range"
 
