@@ -37,6 +37,11 @@ body,html{
 	min-height: 400px;
 }
 
+.pimg4{
+	background-image: url('../foot/016.jpg');
+	min-height: 400px;
+
+
 .section{
 	text-align: center;
 	padding: 50px 80px;
