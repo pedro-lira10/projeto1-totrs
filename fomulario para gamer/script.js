@@ -1,4 +1,9 @@
 function promptMe(){
-    var userAdjective = alert("Você se increveu com sucesso!");
+    var userAdjective = alert("Você foi cadastrado com sucesso!");
 //    alert (userAdjective);
+    if (usuario.value == "kiki") {
+        alert("usuario kiki já foi usado")
+    }
 }
+
+
