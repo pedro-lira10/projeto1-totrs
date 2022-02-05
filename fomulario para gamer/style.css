@@ -1,0 +1,45 @@
+* {
+    font-family: "LObster", cursive;
+    font-weight: 100;
+    font-size: 20px;
+
+}
+
+div { 
+    width: 400px;
+    height: 2450px;
+    margin: 20px;
+    border: 5px solid red;
+    background: rgb(65, 182, 65);
+    display: block;
+}
+
+.dd{
+    margin: 2%
+}
+
+.date{
+    
+        margin: 2%
+    
+}
+
+.usuario{
+    margin: 2%
+}
+
+.password{
+    margin: 2%
+}
+
+h4{
+    margin: 2%
+}
+
+.email {
+    margin: 2%
+}
+
+#submit {
+    margin: 10%
+}
