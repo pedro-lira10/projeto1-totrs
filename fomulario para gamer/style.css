@@ -11,8 +11,8 @@ div {
     height: 850px;
     margin: 20px;
     border: 5px solid red;
-    background: rgb(65, 182, 65);
     display: block;
+    border-radius: 30px;
 }
 
 .dd{
@@ -45,7 +45,14 @@ h4{
     margin: 10%
 }
 
-form div img {
-    opacity: 0.7;
+img {
+    margin: auto;
+    opacity: 0.2;
+    top: 10px;
+    left: 100;
+    right: 0;
+    down: auto;
+    bottom: 0;
+    opacity: 0.4;
   }
   
