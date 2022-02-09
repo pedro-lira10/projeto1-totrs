@@ -1,0 +1,25 @@
+promptMe(){
+    var userAdjective = alert("Você foi cadastrado com sucesso!");
+//    alert (userAdjective);
+    if (usuario.value == "kiki") {
+        alert("usuario kiki já foi usado")
+    }
+}
+
+
+css
+
+img
+background-image: 10px;
+    background-repeat: repeat;
+    background-size: cover ;
+    position: center center; 
+    background-clip: border-box;
+    background-attachment: auto;
+  
+    top: auto;
+    left: 100;
+    right: 0;
+    down: auto;
+    bottom: 0;
+    opacity: 0.4;
