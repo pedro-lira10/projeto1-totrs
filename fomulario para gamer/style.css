@@ -1,12 +1,27 @@
-* {
+body { 
+    background-color: #789854;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.box{
+    background-color: #fff;
+    height: 700px;
+    width:500px;
+}
+
+*{
     font-family: "LObster", cursive;
     font-weight: 100;
     font-size: 20px;
 
 }
 
+
 div { 
     margin: auto;
+    background-image:url("https://images7.alphacoders.com/942/thumb-1920-942281.png")
     width: 400px;
     height: 850px;
     margin: 20px;
@@ -16,7 +31,7 @@ div {
 }
 
 .dd{
-    margin: 2%
+    margin: 4%
 }
 
 .date{
