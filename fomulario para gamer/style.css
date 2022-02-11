@@ -1,5 +1,10 @@
+* responsive {
+    margin-top: center;
+
+}
+
 body { 
-    background-color: #789854;
+    background-color: #c6d1ba;
     display: grid;
     place-items: center;
     height: 100vh;
@@ -9,6 +14,12 @@ body {
     background-color: #fff;
     height: 700px;
     width:500px;
+
+    -webkit-box-shadow: 0 0 100px rgb(11, 255, 31);
+        box-shadow: 0 0 100px rgb(240, 11, 11);
+
+    
+
 }
 
 *{
@@ -21,13 +32,13 @@ body {
 
 div { 
     margin: auto;
-    background-image:url("https://images7.alphacoders.com/942/thumb-1920-942281.png")
+   
     width: 400px;
     height: 850px;
     margin: 20px;
-    border: 5px solid red;
+    border: 5px solid rgb(22, 17, 17);
     display: block;
-    border-radius: 30fpx;
+    border-radius: 30px;
 }
 
 .dd{
@@ -69,5 +80,7 @@ img {
     down: auto;
     bottom: 0;
     opacity: 0.4;
+
+    border-radius: 20px;
   }
   
