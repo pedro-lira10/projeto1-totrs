@@ -23,3 +23,11 @@ background-image: 10px;
     down: auto;
     bottom: 0;
     opacity: 0.4;
+
+
+    box shadow: 0 0
+
+     back side
+
+     box-shadow: 6px 6px 6px rgba(3, 107, 133, 0.959);
+    box-shadow: inset 12px 10px 6px  rgb(203, 206, 13);
