@@ -31,3 +31,16 @@ background-image: 10px;
 
      box-shadow: 6px 6px 6px rgba(3, 107, 133, 0.959);
     box-shadow: inset 12px 10px 6px  rgb(203, 206, 13);
+
+    img {
+        margin: auto;
+        opacity: 0.2;
+        top: 10px;
+        left: 100;
+        right: 0;
+        down: auto;
+        bottom: 0;
+        opacity: 0.4;
+    
+        border-radius: 20px;
+      }

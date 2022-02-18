@@ -8,6 +8,7 @@ body {
     display: grid;
     place-items: center;
     height: 100vh;
+    background: linear-gradient(90deg, rgba(33, 37, 41, 0.6) 0%, rgba(33, 37, 41, 0.24) 100%);
 }
 
 .box{
@@ -56,7 +57,7 @@ div {
 }
 
 .password{
-    margin: 2%
+    margin: 2   %
 }
 
 h4{
@@ -72,6 +73,9 @@ h4{
 }
 
 img {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: auto;
     opacity: 0.2;
     top: 10px;
