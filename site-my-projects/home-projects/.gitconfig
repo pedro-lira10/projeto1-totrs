@@ -1,0 +1,9 @@
+# this is Git's per-user configuration file.
+[user] 
+# Please adapt and uncomment the following lines:
+        name = Nicolas Schurmann
+        email = pedroiago510@yahoo.com
+[init]
+    defaultBranch = main 
+[core] 
+    editor = code --wait
