@@ -45,14 +45,19 @@
   }
   
   .nav-list {
-    list-style: none;
     display: flex;
+    list-style: none;
+    
   }
   
   .nav-list li {
     letter-spacing: 3px;
     margin-left: 32px;
     font-size: 31px;
+  }
+
+  ul li {
+    list-style-type: none;
   }
   
   .mobile-menu {
