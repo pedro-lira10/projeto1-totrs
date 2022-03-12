@@ -28,21 +28,10 @@ html {
   font-family: "Roboto", sans-serf;
 }
 
-nav {
-  position: absolute;
-  pointer-events: none;
-  width: 1440px;
+nav  {
   
-  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.2);
-  
-  
-  background: transparent;
-  backdrop-filter: blur(100px);
-  transition: 0.5s;
-  height: 9vh;
-  letter-spacing: 4px;
-  margin-left: 0px;
-  font-size: 29px;
+  list-style: none;
+  display: flex;
 }
 
 .nav-list {
@@ -86,6 +75,20 @@ a:hover {
     color: var(--secondary-color);
   }
 ul li{
+  position: absolute;
+  pointer-events: none;
+  width: 1440px;
+  
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.2);
+  
+  
+  background: transparent;
+  backdrop-filter: blur(100px);
+  transition: 0.5s;
+  height: 9vh;
+  letter-spacing: 4px;
+  margin-left: 0px;
+  font-size: 29px;
   display: flex;
     list-style: none;
     
