@@ -21,3 +21,7 @@ p {
     color: whitesmoke;
     background-color: black;
 }
+
+article {
+    background-color: sienna;
+}
