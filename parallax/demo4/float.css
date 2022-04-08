@@ -17,11 +17,15 @@
     float:right;
 }
 
-p {
-    color: whitesmoke;
-    background-color: black;
-}
-
 article {
     background-color: sienna;
+    overflow: hidden;
+    
+
+}
+
+.elementParagraph {
+    padding-top: 0;
+    margin-top: 0px;
+
 }
