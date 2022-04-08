@@ -15,6 +15,9 @@
 .elementExample_last {
     background-color: red;
     float:right;
+        position: relative;
+    
+    
 }
 
 article {
@@ -29,9 +32,7 @@ article {
     padding-top: 0;
     margin-top: 0px;
     clear: both;
-
-    
-        position: static;
+    position: static;
         
         
         
