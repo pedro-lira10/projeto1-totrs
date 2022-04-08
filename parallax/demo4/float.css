@@ -1,0 +1,17 @@
+.elementExample {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    color: rgba(16, 19, 196, 0.856);
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+.elementExample_first {
+    background-color: violet;
+    float:left;
+}
+.elementExample_last {
+    background-color: red;
+    
+}
