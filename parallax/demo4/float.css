@@ -30,13 +30,13 @@ article {
     margin-top: 0px;
     clear: both;
 
-    {
+    
         position: static;
         position: relative;
         position: absolute;
         position: fixed;
         position: sticky;
         position: inherit;
-      }
+      
 
 }
