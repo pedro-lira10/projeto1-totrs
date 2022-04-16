@@ -1,7 +1,7 @@
 let nombres = ["abecedario","manzana","pedro","dedo","bobo"];
 
 document.write(nombres + "<br>");
-let resultado = nombres.spli("kalel","magnatrom");
+let resultado = nombres.splic("kalel","magnatrom");
 
 
 
