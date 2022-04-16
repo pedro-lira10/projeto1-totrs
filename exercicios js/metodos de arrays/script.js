@@ -1,7 +1,7 @@
 let nombres = ["abecedario","manzana","pedro","dedo","bobo"];
 
 document.write(nombres + "<br>");
-let resultado = nombres.s("kalel","magnatrom");
+let resultado = nombres.sp("kalel","magnatrom");
 
 
 
