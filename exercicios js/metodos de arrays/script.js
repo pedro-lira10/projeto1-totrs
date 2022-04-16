@@ -1,7 +1,7 @@
 let nombres = ["abecedario","manzana","pedro","dedo","bobo"];
 
 document.write(nombres + "<br>");
-let resultado = nombres.splice("kalel","magnatrom");
+let resultado = nombres.splice(1,3);
 
 
 
