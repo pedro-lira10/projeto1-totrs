@@ -18,3 +18,11 @@ number.splice()
 document.write(number)
 
 
+let y= ["abecedario","manzana","pedro","dedo","bobo"];
+
+document.write(y + "<br>");
+let resultado = ny.slipe("<br>eletemente: ");
+
+
+
+document.write(resultado);
