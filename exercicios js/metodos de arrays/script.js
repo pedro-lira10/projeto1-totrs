@@ -1,7 +1,7 @@
 let nombres = ["abecedario","manzana","pedro","dedo","bobo"];
 
 document.write(nombres + "<br>");
-let resultado = nombres.reverse("kalel","magnatrom");
+let resultado = nombres.("kalel","magnatrom");
 
 
 
