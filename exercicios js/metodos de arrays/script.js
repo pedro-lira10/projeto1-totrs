@@ -18,11 +18,13 @@ number.splice()
 document.write(number)
 
 
-let y= ["abecedario","manzana","pedro","dedo","bobo"];
+let y = ["abecedario","manzana","pedro","dedo","bobo"];
 
 document.write(y + "<br>");
-let resultado = ny.slipe("<br>eletemente: ");
+let r = y.includes("dedo");
+let d = y.includes("joao");
 
 
 
-document.write(resultado);
+document.write(r);
+document.write("<br>" + d);
