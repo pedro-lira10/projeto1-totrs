@@ -1,7 +1,7 @@
 let nombres = ["abecedario","manzana","pedro","dedo","bobo"];
 
-document.write(numeros + "<br>");
+document.write(nombres + "<br>");
 let resultado = nombres.push("kalel","magnatrom");
 
-document.write(resultado);
+document.write(nombres);
 
