@@ -1,4 +1,4 @@
-let numeros = ["abecedario","manzana","pedro","dedo","bobo","peter","otimusprime","kim"];
+let numeros = ["abecedario","manzana","pedro","dedo","bobo","peter","otimusprime","kim","kalif"];
 // let cadena2 = "";
 
 resultado = numeros.filter(numero => numero.length > 4)
