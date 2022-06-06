@@ -1,3 +1,5 @@
 Um dos meus primeiro Landing page no git 
 
-auterando
+mudanças são nessesarias 
+
+vai com medo mesmo
