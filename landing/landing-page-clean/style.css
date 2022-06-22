@@ -9,7 +9,8 @@ body{
 
 #showcase{
     background-image:url('https://picsum.photos/1200/1200?t=4');
-    height:800px;
+    height: 400px;
+    width: auto;
 }
 
 .social-container{
@@ -34,6 +35,8 @@ body{
     border-radius: 50%;
     border: 2px  solid rgb(19, 17, 17);
     transition: all 1s;
+    margin-top: 50%;
+    margin-left: 2100px;
 }
 
 .social-container i {
