@@ -94,3 +94,36 @@ ul li{
     list-style: none;
     
 }
+
+.social-container{
+  width: 48px;
+}
+
+.social-container ol {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+}
+
+.social-container p {
+  height: 48px;
+  width: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 2px  solid #fff;
+  transition: all 1s;
+}
+
+.social-container i {
+  font-size: 1.5rem;
+}
+
+.social-container li:hover{
+  background-color: #E62721;
+  border-color: #E62721;
+}

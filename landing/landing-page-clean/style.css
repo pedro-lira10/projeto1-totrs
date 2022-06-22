@@ -11,3 +11,36 @@ body{
     background-image:url('https://picsum.photos/1200/1200?t=4');
     height:800px;
 }
+
+.social-container{
+    width: 48px;
+}
+
+.social-container ul {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+}
+
+.social-container li {
+    height: 48px;
+    width: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 2px  solid rgb(19, 17, 17);
+    transition: all 1s;
+}
+
+.social-container i {
+    font-size: 1.5rem;
+}
+
+.social-container li:hover{
+    background-color: #5c21e6;
+    border-color: #E62721;
+}
