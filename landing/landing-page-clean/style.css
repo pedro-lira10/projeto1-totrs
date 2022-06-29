@@ -13,13 +13,18 @@ body{
 header {
 
     z-index: 100;
+    
 }
 
 #showcase{
     background-image:url('https://picsum.photos/1200/1200?t=4');
     height: 400px;
     width: auto;
+    display: flex;
+    justify-content: space-between;
 }
+
+
 
 .social-container{
     width: 48px;
