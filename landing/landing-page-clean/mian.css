@@ -1,6 +1,7 @@
 main{
     display: flex;
     justify-content: space-between;
+    margin: auto;
 
 }
 
@@ -42,5 +43,6 @@ main{
     .menu-burger-container.active ~ .links-container{
         opacity: 1;
         transform: translateX(0%);
+        
     }
 }

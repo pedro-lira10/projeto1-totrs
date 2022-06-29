@@ -1,13 +1,26 @@
 body{
     position: absolute;
     top: 0;
-    margin:0;
+    margin: auto;
     
     font-family: Arial, "Helvetica Neue",
     helvetica, sans-serif;
     font-size:17px;
     color:#09f8d8;
     line-height:1.6;
+}
+
+.caja1 {
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: auto;
+}
+
+.caja2 {
+    width: 200px;
+    height: 200px;
+    background: yellow;
 }
 
 header {
@@ -63,5 +76,5 @@ header {
 
 h1 {
     padding: 10;
-    margin: 200px;
+    margin: auto;
 }
