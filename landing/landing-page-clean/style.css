@@ -61,17 +61,17 @@ header {
     border-radius: 50%;
     border: 2px  solid rgb(19, 17, 17);
     transition: all 1s;
-    margin-top: 50%;
+    margin-top: 40%;
     margin-left: 1500px;
 }
 
 .social-container i {
-    font-size: 1.5rem;
+    font-size: 2.1rem;
 }
 
 .social-container li:hover{
-    background-color: #5c21e6;
-    border-color: #E62721;
+    background-color: #cc1e07;
+    border-color: #218de6;
 }
 
 h1 {
