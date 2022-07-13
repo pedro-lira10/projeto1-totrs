@@ -86,8 +86,8 @@ h2 {
     height: 50px;
     padding: 20px;
     margin-top: 10px;
-    margin-d: 10px;
-    margin-left: 10px;
+    margin: 10px;
+    margin-left: 100px;
     margin-right: 10px;
 }
 h3 {
