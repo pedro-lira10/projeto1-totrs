@@ -6,16 +6,31 @@ header{
 .links-container{
     display: flex;
     gap: 32px;
+    
 }
 
 .links-container a {
-    text-shadow: 2px 2px 2px #000;
+    text-shadow: 2px 2px 2px rgba(221, 19, 19, 0.767);
     padding: 6px;
     transition: all 1s;
+    
+}
+
+.links-containe {
+    display: flex;
+    justify-content: space-between;
+    text-shadow: 2px 2px 2px rgba(221, 19, 19, 0.767);
+    padding: 6px;
+    transition: all 1s;
+    margin-right: 30px;
+    margin-left: 30px;
+    
 }
 
 .links-container a:hover{
     background-color: #E62721;
+    margin:auto;
+    padding-left: auto;
 }
 
 @media (max-width:768px){

@@ -34,6 +34,7 @@ body{
     background: yellow;
     display: flex;
     justify-content: space-between;
+    border: 10px solid
     
 }
 
@@ -59,33 +60,42 @@ body{
 .caja5 {
         width: 200px;
         height: 200px;
-        background: red;
+        background: rgb(147, 4, 160);
         margin: auto;
         display: flex;
         justify-content: space-between;
-        margin: 30px;
+        margin: 15px;
         padding: auto;
+        border-radius: 10px;
 }
     
     .caja6 {
         width: 200px;
         height: 200px;
-        background: yellow;
+        background: rgb(18, 14, 214);
         display: flex;
         justify-content: space-between;
+        margin: 15px;
+        padding: auto;
+        border-radius: 10px;
         
     }
     
     .caja7 {
         width: 200px;
         height: 200px;
-        background: rgb(26, 148, 10);
+        background: rgb(148, 134, 10);
+        border-radius: 12px;
+
     }
     
     .caja8 {
         width: 200px;
         height: 200px;
         background: rgb(5, 241, 241);
+        margin: 15px;
+        padding: auto;
+        border-radius: 10px;
     }    
 
 
@@ -118,6 +128,9 @@ header {
     justify-content: flex-end;
     align-items: center;
     gap: 20px;
+    margin-left: 200px;
+    margin-right: 20px;
+    padding-left: auto;
 }
 
 .social-container li {
