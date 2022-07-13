@@ -10,10 +10,21 @@ body{
     line-height:1.6;
 }
 
+.CAJA {
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
 .caja1 {
     width: 200px;
     height: 200px;
     background: red;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
     margin: auto;
 }
 
@@ -21,7 +32,64 @@ body{
     width: 200px;
     height: 200px;
     background: yellow;
+    display: flex;
+    justify-content: space-between;
+    
 }
+
+.caja3 {
+    width: 200px;
+    height: 200px;
+    background: rgb(26, 148, 10);
+}
+
+.caja4 {
+    width: 200px;
+    height: 200px;
+    background: rgb(5, 241, 241);
+}
+
+.CAJA01{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.caja5 {
+        width: 200px;
+        height: 200px;
+        background: red;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        margin: 30px;
+        padding: auto;
+}
+    
+    .caja6 {
+        width: 200px;
+        height: 200px;
+        background: yellow;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    
+    .caja7 {
+        width: 200px;
+        height: 200px;
+        background: rgb(26, 148, 10);
+    }
+    
+    .caja8 {
+        width: 200px;
+        height: 200px;
+        background: rgb(5, 241, 241);
+    }    
+
+
+
 
 header {
 
