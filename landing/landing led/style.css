@@ -1,0 +1,45 @@
+div {
+    width: 200px;
+    height: 100px;
+    display: block;
+
+}
+
+.caja{
+    background-color: rgb(38, 109, 85);
+    position: relative;
+    
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    margin-top: center;
+    
+
+}
+
+.caja2{
+    background-color: rgb(163, 38, 16);
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin: center;
+    margin-left: 512px;
+    
+
+}
+
+.caja3{
+    background-color: rgb(163, 38, 16);
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin: center;
+    margin-left: -4px;
+
+    
+    
+}
