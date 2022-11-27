@@ -1,0 +1,19 @@
+div{
+    background-color: rgba(164, 165, 165, 0.986);
+    position: absolute;
+    top: 30%;
+    left: 67%;
+    down: 50%;
+    right: 01%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    border-radius: 150px;
+    background-image: linear-gradient( rgb(0, 132, 255));
+    color: rgb(7, 8, 8);
+}
+
+input {
+    margin: 20px;
+    padding: 20px;
+    
+}
