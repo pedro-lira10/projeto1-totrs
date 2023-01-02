@@ -1,0 +1,61 @@
+div{
+    background-color: rgba(223, 223, 223, 0.986);
+    position: absolute;
+    top: 50%;
+    left: 67%;
+    down: 50%;
+    right: 01%;
+    transform: translate(-50%,-50%);
+    margin: auto;
+    padding: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 69px;
+    padding-bottom: 350px;
+    border: 7px;
+    border-radius: 150px;
+    background-image: linear-gradient( rgb(0, 132, 255));
+    color: rgb(7, 8, 8);
+}
+
+input {
+    margin: 20px;
+    padding: 20px;
+    
+    padding-right: 150px;
+    border: 200px;
+    content: 200px;
+    
+}
+
+.line {
+    
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+button {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    
+    padding-right: 150px;
+    border: 200px;
+    content: 200px;
+    
+    
+}
+
+h2 {
+    
+    display: flex;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 6px;
+    padding-bottom: 3px;
+    
+    content: 2px;
+    
+}
