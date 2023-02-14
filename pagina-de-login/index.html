@@ -17,6 +17,16 @@
                 <button><a href="main.html" class="btn">Enviar</a></button>
                 
                 <input type="hidden" name="redirectTo" value="/main.html">
+                    <div class="message-box">
+                        <textarea id="msg" cols="30" rows="10" placeholder="Message"></textarea>
+                    </div>
+                    <div class="button">
+                        <button id="send" onclick="message()">Send</button>
+                    </div>
+                    <div class="message">
+                        <div class="success" id="success">Your Message Successfully Sent!</div>
+                        <div class="danger" id="danger">Feilds Can't be Empty!</div>
+                    </div>
             
         </div>
     </div>
