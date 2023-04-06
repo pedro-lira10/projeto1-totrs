@@ -1,0 +1,156 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #333;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    color: #666;
+  }
+  
+  /* Estilos da seção do herói */
+  #hero {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  #hero .container {
+    color: #fff;
+    text-align: center;
+  }
+  
+  #hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  #hero p {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  #hero .cta {
+    background-color: #f26522;
+    border-radius: 50px;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 30px;
+    text-decoration: none;
+  }
+  
+  #hero .cta:hover {
+    background-color: #e15d1f;
+  }
+  
+  /* Estilos da seção de recursos */
+  #features {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  #features h2 {
+    text-align: center;
+  }
+  
+  .feature {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  .feature img {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .feature h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .feature p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Estilos da seção de depoimentos */
+  #testimonials {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  #testimonials h2 {
+    text-align: center;
+  }
+  
+  .testimonial {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  .testimonial img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .testimonial cite {
+    font-style: normal;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Estilos da seção de preços */
+  #pricing {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  #pricing h2 {
+    text-align: center;
+  }
+  
+  .price {
+    margin-bottom: 50px;
+    text-align: center;
+  }
